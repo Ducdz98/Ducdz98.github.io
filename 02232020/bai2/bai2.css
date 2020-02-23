@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: #006600;
+}
+h2 {
+    text-decoration: underline;
+    color: #0000FF;
+}
+p {
+    font-weight: bold;
+}
+h2.title {
+    text-align: center;
+    color: #FF3399;
+    background-color: #FECFFD;
+}
+div{
+    text-align: center;
+    background-color: #FFFFCC;
+}
+.div1{
+    color: #0000FF;
+    font-style: italic;
+}
+.div2{
+    color: red;
+    font-style: italic;
+}
+.div3{
+    color: #006600;
+    font-style: italic;
+}
+hr{
+    width: 200px;
+}
