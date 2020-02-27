@@ -1,0 +1,13 @@
+h2 {
+  text-align: center;
+  color: orange;
+    border: 3px double;
+}
+.first-letter {
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}
+.text-right{
+  text-align: right;
+}

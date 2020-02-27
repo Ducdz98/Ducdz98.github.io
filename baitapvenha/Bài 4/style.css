@@ -1,0 +1,20 @@
+body {
+  background-image: url(images/images.jpg);
+  background-repeat: repeat;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  color: #008888;
+  
+}
+p {
+  color: #008888;
+  
+}
+.special {
+  font-style: italic;
+  color: #fff;
+  background-color: #339999;
+}

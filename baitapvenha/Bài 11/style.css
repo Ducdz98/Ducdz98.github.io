@@ -1,0 +1,17 @@
+div {
+  max-width: 500px;
+  border: 1px solid black;
+  margin: 60px auto;
+  min-height: 250px;
+  background: aliceblue;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+table {
+  margin: 0 auto;
+}
+td {
+  padding: 10px 0;
+}

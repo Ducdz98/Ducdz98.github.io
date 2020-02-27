@@ -1,0 +1,11 @@
+h2 {
+  text-align: center;
+  color: green;
+}
+span {
+  color: red;
+}
+pre {
+  background: #CCCCCC;
+  color: #0000CC;
+}

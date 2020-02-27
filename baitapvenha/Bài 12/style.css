@@ -1,0 +1,16 @@
+div {
+  max-width: 700px;
+    border: 1px solid black;
+    margin: 60px auto;
+    background: aliceblue;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+table {
+  margin: 0 auto;
+}
+td {
+  padding: 10px 0;
+}
